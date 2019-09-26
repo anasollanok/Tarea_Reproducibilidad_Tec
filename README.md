@@ -15,7 +15,7 @@
 
 En la siguiente liga pueden verificar que todo funcione (deben cambiar el nombre de usuario de github `said3427` por el suyo)
 
-RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/said3427/Tarea_Reproducibilidad_Tec/master?urlpath=rstudio)
+RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/anasollanok/Tarea_Reproducibilidad_Tec/master?urlpath=rstudio)
 
 ## Dudas
 
