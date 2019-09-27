@@ -1,23 +1,20 @@
 # Tarea Reproducibilidad
 
-## Tarea
-- Realizar un fork del repositorio: https://github.com/said3427/Tarea_Reproducibilidad_Tec a un repo local por equipo.
+## Datos
+- Conjunto de datos que muestra el gdp per capita, la población y la expectativa de vida de cada país dividido por continentes entre la década de los 50 y 60.
 
-- Comentar el archivo Code.R (Recuerda que para comentar código en R se usa `#`).
+## Archivos
 
-- Agregar el o los paquetes faltantes para la reproducibilidad del código en el archivo install.R
+### install.R
+- Cuenta con los paquetes que deben instalarse antes de correr Code.R
 
-- Quitar las intrucciones de la tarea en el archivo README.md, agregar una breve descripción del código y gráficos que se generan.
+### Code.R
+- Genera dos graficas con ggplot, la primera muestra solo la expectativa de vida de Canadá y la segunda añade la expectativa de vida de México y Estados Unidos para comparar.
 
-- Realizar un pull request o mandar un mail con su repo a saidmunozmontero@tec.mx
+## Equipo
 
-## Rstudio
+- Carlos Ivan Balcazar Martínez | A01335208
+- Patricia Dávila Servín | A01650812
+- Ana Alejandra Sollano Kim | A01651072
+- Bruno Schalch García | A01651187
 
-En la siguiente liga pueden verificar que todo funcione (deben cambiar el nombre de usuario de github `said3427` por el suyo)
-
-RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/anasollanok/Tarea_Reproducibilidad_Tec/master?urlpath=rstudio)
-
-## Dudas
-
-- saidmunozmontero@tec.mx
-- said3427@gmail.com
