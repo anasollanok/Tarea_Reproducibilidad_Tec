@@ -11,6 +11,10 @@
 ### Code.R
 - Genera dos graficas con ggplot, la primera muestra solo la expectativa de vida de Canadá y la segunda añade la expectativa de vida de México y Estados Unidos para comparar.
 
+### Binder
+
+- RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/anasollanok/Tarea_Reproducibilidad_Tec/master?urlpath=rstudio)
+
 ## Equipo
 
 - Carlos Ivan Balcazar Martínez | A01335208
